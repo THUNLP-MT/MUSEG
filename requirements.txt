@@ -1,0 +1,13 @@
+accelerate==1.4.0
+datasets==3.3.2
+deepspeed==0.15.4
+modelscope==1.26.0
+nncore==0.4.5
+qwen-vl-utils==0.0.10
+sentence-transformers==3.0.1
+tensorboard==2.19.0
+torch==2.5.1
+transformers==4.50.0
+trl==0.15.1
+vllm==0.7.3
+git+https://github.com/salaniz/pycocoevalcap.git@a24f74c
